@@ -4,13 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvo1231&label=Profile%20views&color=0e75b6&style=flat" alt="huyvo1231" /> </p>
 
 - 🔭 I’m currently working on [HeThongthongtin_dialy_MERN](https://github.com/HuyVo1231/HeThongthongtin_dialy_MERN)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+  <a href="https://www.linkedin.com/in/v%C3%B5-nh%E1%BA%ADt-huy-0410bb248/" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-username/" target="blank">
+  <a href="https://www.facebook.com/thoimadungcheck/" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" alt="facebook" height="30" width="30" />
   </a>
 </p>
