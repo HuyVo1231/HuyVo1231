@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Võ Nhật Huy</h1>
 <h3 align="center">Intern - MERN Stack Developer</h3>
 
-<p align="center">
+<p align="right">
   <img alt="Coding" width="200" height="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4">
 </p>
 
