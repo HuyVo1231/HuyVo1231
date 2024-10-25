@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Võ Nhật Huy</h1>
 <h3 align="center">Intern - MERN Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4">
+<img align="center" alt="Coding" width="300" height="300" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvo1231&label=Profile%20views&color=0e75b6&style=flat" alt="huyvo1231" /> </p>
 
