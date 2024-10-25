@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Võ Nhật Huy</h1>
 <h3 align="center">Intern - MERN Stack Developer</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvo1231&label=Profile%20views&color=0e75b6&style=flat" alt="huyvo1231" /> </p>
 
@@ -32,6 +30,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><a href="https://github.com/HuyVo1231/HeThongthongtin_dialy_MERN">HeThongthongtin_dialy_MERN</a> - A MERN stack project for managing information.</li>
+  <li><a href="https://github.com/HuyVo1231/QuanLy_DonThu_Nodejs">QuanLy_DonThu_Nodejs</a> - A project for managing letters.</li>
+  <li><a href="https://github.com/HuyVo1231/notes-mern">Notes MERN</a> - A note-taking application built with MERN stack.</li>
+  <li><a href="https://github.com/HuyVo1231/notes-api">Notes API</a> - RESTful API for managing notes.</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyvo1231&show_icons=true&locale=en&layout=compact" alt="huyvo1231" /></p>
 
