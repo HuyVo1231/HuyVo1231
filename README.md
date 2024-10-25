@@ -1,11 +1,7 @@
-[![MasterHead](https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif)](https://github.com/HuyVo1231)
 
 <h1 align="center">Hi 👋, I'm Võ Nhật Huy</h1>
 <h3 align="center">Intern - MERN Stack Developer</h3>
 
-<p align="right">
-  <img alt="Coding" width="200" height="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvo1231&label=Profile%20views&color=0e75b6&style=flat" alt="huyvo1231" /> </p>
 
