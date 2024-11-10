@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyvo1231&label=Profile%20views&color=0e75b6&style=flat" alt="huyvo1231" /> </p>
 
-- 🔭 I’m currently working on [HeThongthongtin_dialy_MERN](https://github.com/HuyVo1231/HeThongthongtin_dialy_MERN)
+- 🔭 I’m currently studying at Kien Giang Uuniversity
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/v%C3%B5-nh%E1%BA%ADt-huy-0410bb248/" target="blank">
